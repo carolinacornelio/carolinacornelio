@@ -18,6 +18,6 @@
 
  <div>
 	<a href= "https>//github.com/carolinacornelio">
-	<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=carolinacornelio&show_icons=true&theme=radical"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacornelio&layout=compact&langs_count=16&theme=dark"/>
+	<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=carolinacornelio&show_icons=true&theme=radical"/>
+	<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacornelio&layout=compact&langs_count=16&theme=dark"/>
 <div/>
