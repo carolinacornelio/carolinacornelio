@@ -15,9 +15,3 @@
   <a href = "mailto:carolinadscornelio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anacarolinacorn%C3%A9lio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
- <div>
-	<a href= "https>//github.com/carolinacornelio">
-	<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=carolinacornelio&show_icons=true&theme=radical"/>
-	<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacornelio&layout=compact&langs_count=16&theme=dark"/>
-<div/>
